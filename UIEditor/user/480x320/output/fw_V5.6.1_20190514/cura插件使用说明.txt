@@ -1,7 +1,0 @@
-CURA插件使用说明：
-1.更新屏幕固件及WIFI固件至 3.6.1
-2.安装Cura4.0或更高版本：http://ultimaker.cn/Ultimaker-cura-software
-3.将FlyingBearPlugin文件夹，复制到CURA插件目录，即【cura.exe所在文件夹】\plugins\
-	例如：
-		D:\Program Files\Ultimaker Cura 4.0\plugins
-4.开机，启动cura软件。在连接打印机界面，输入屏幕上显示的IP，然后点”连接”
